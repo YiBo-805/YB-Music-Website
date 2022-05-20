@@ -110,7 +110,7 @@ git clone https://github.com/YiBo-805/YB-Music-Website.git
 
 2）修改用户名和密码  修改 music-web/music-server/src/main/resources/application.yaml文件中数据库的username 和 password
 
-#### 3、后台环境搭建：
+#### 4、后台环境搭建：
 
 1）下载maven3.6.1 
 
@@ -118,7 +118,7 @@ git clone https://github.com/YiBo-805/YB-Music-Website.git
 
 2）在idea中配置maven
 
-#### 4、启动项目：
+#### 5、启动项目：
 
 - **启动管理端**：使用idea打开 music-server 文件夹，在idea中运行下面命令启动服务器
 
