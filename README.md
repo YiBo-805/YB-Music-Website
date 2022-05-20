@@ -42,7 +42,7 @@
 
 1.登录界面：
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/79205996/169454927-c9914e34-1424-4407-8b7f-5ebd47b4e9c0.png)
 
 2.系统首页：
 
@@ -65,7 +65,35 @@
 
 ### 项目功能
 
-1.  
+- 音乐播放
+- MV播放
+- 用户登录注册
+- 用户个人信息设置（包括修改头像）
+- 歌曲、歌单搜索
+- 歌单打分
+- 歌单、歌曲评论
+- 歌词同步显示
+- 音乐收藏、下载、拖动控制、音量控制
+- 后台对用户、歌曲、歌手、歌单信息的管理 
+
+### 项目所用技术
+
+#### 后端
+SpringBoot + MyBatis
+
+#### 前端
+Vue + ElementUI + Axios
+
+### 项目运行介绍
+
+#### 1、下载项目到本地
+
+```bash
+git clone https://github.com/YiBo-805/YB-Music-Website.git
+```
+
+#### 2、下载网站中的资源：
+
 系统前台访问地址：http://localhost:8081
 
 系统后台访问地址：http://localhost:8080
