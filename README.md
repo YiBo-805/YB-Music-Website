@@ -8,6 +8,7 @@
 在项目基础上增加了MV功能，修改了项目中的部分bug，仅供学习交流。
 
 ## 项目预览
+
 ### 前台预览
 
 1.首页：
@@ -36,26 +37,33 @@
 
 ![image](https://user-images.githubusercontent.com/79205996/169452158-48c6b71e-cbd2-4005-b027-e22117b31c03.png)
 
+
 ### 后台预览
 
-1.系统首页：
+1.登录界面：
+
+![Uploading image.png…]()
+
+2.系统首页：
 
 ![image](https://user-images.githubusercontent.com/79205996/169452596-c614c021-797f-4cc1-a1f7-f2321f85a3e4.png)
 
-2.用户管理：
+3.用户管理：
 
 ![image](https://user-images.githubusercontent.com/79205996/169452659-44c26a72-6471-461d-81b2-230646bae1c4.png)
 
-3.歌手管理：
+4.歌手管理：
 
 ![image](https://user-images.githubusercontent.com/79205996/169452714-6ff0905c-0533-44a6-b3ca-17c1cd52be4a.png)
 
-4.歌单管理：
+5.歌单管理：
 
 ![image](https://user-images.githubusercontent.com/79205996/169452764-bfff9c73-a6ce-4c02-91a8-3bd07dc8033c.png)
 
 
-## 项目使用说明
+## 项目说明
+
+### 项目功能
 
 1.  
 系统前台访问地址：http://localhost:8081
@@ -72,22 +80,6 @@
 ![输入图片说明](ReadMeResource/image.png)
 
 
-
-#### 项目预览
-
-![1638780576(1)](ReadMeResource/1638780576(1).jpg)
-
-![image-20211206165137364](ReadMeResource/1638780681(1).jpg)
-
-![image-20211206165154807](ReadMeResource/1638780706(1).jpg)
-
-![image-20211206165215924](ReadMeResource/image-20211206165215924.png)
-
-![1638780604(1)](ReadMeResource/1638780604(1).jpg)
-
-![1638780624(1)](ReadMeResource/1638780637(1).jpg)
-
-![1638780651(1)](ReadMeResource/1638780651(1).jpg)
 
 ## 项目功能
 
