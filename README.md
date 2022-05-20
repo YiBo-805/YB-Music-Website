@@ -1,25 +1,24 @@
 # Vue + SpringBoot 音乐网站  前后端分离
 
-#### 介绍
+## 简单介绍
 开发环境：Vue2.x, VScode, idea, maven3.6.1
+
 参考开源地址：https://github.com/Yin-Hongwei/music-website
 
-在这个项目的基础上增加了MV功能和修改了部分bug，仅供学习交流，侵权联系我删除
+在项目基础上增加了MV功能，修改了项目中的部分bug，仅供学习交流。
 
-#### 技术实现
-### 后端
+## 项目预览
+### 后端预览
 
 **SpringBoot + MyBatis**
 
-### 前端
+### 前端预览
 
-**Vue + Vue-Router + Vuex + Axios + ElementUI**
+**Vue +  ElementUI**
 
-Node.js：14
-JDK8
-MySQL5.7
 
-#### 使用说明
+
+## 项目使用说明
 
 1.  
 系统前台访问地址：http://localhost:8081
