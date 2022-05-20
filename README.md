@@ -11,30 +11,48 @@
 ### 前台预览
 
 1.首页：
+
 ![image](https://user-images.githubusercontent.com/79205996/169451513-5ad7bdaa-62fd-4b62-91af-5bed1a316464.png)
 
 2.歌单：
+
 ![image](https://user-images.githubusercontent.com/79205996/169451802-474d2038-7e08-4708-888a-aec9b97b3a6e.png)
 
 ![image](https://user-images.githubusercontent.com/79205996/169451923-dedde162-8536-4b56-b327-ba0ba8d8f03e.png)
 
 3.歌手：
+
 ![image](https://user-images.githubusercontent.com/79205996/169451990-f784875c-3a93-4d03-8d38-756247482a52.png)
 
 ![image](https://user-images.githubusercontent.com/79205996/169452063-c73bad5d-c873-43f5-bbff-e36cfc83baf5.png)
 
-4.登录与注册：
+4.歌词：
+
+![image](https://user-images.githubusercontent.com/79205996/169452479-217937cc-21e6-437d-93a1-5abd9ff6cc80.png)
+
+5.登录与注册：
+
 ![image](https://user-images.githubusercontent.com/79205996/169452131-5342c322-8ff2-4636-937c-43a08250cec2.png)
 
 ![image](https://user-images.githubusercontent.com/79205996/169452158-48c6b71e-cbd2-4005-b027-e22117b31c03.png)
 
-
-**SpringBoot + MyBatis**
-
 ### 后台预览
 
-**Vue +  ElementUI**
+1.系统首页：
 
+![image](https://user-images.githubusercontent.com/79205996/169452596-c614c021-797f-4cc1-a1f7-f2321f85a3e4.png)
+
+2.用户管理：
+
+![image](https://user-images.githubusercontent.com/79205996/169452659-44c26a72-6471-461d-81b2-230646bae1c4.png)
+
+3.歌手管理：
+
+![image](https://user-images.githubusercontent.com/79205996/169452714-6ff0905c-0533-44a6-b3ca-17c1cd52be4a.png)
+
+4.歌单管理：
+
+![image](https://user-images.githubusercontent.com/79205996/169452764-bfff9c73-a6ce-4c02-91a8-3bd07dc8033c.png)
 
 
 ## 项目使用说明
