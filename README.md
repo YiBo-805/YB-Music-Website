@@ -118,6 +118,8 @@ git clone https://github.com/YiBo-805/YB-Music-Website.git
 
 2）在idea中配置maven
 
+配置链接：【链接: https://blog.csdn.net/Matcha_ice_cream/article/details/124888085 】
+
 #### 5、启动项目：
 
 - **启动管理端**：使用idea打开 music-server 文件夹，在idea中运行下面命令启动服务器
