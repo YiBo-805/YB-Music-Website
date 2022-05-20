@@ -8,11 +8,13 @@
 在项目基础上增加了MV功能，修改了项目中的部分bug，仅供学习交流。
 
 ## 项目预览
-### 后端预览
+### 前台预览
+![image](https://user-images.githubusercontent.com/79205996/169451513-5ad7bdaa-62fd-4b62-91af-5bed1a316464.png)
+
 
 **SpringBoot + MyBatis**
 
-### 前端预览
+### 后台预览
 
 **Vue +  ElementUI**
 
