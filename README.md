@@ -94,58 +94,39 @@ git clone https://github.com/YiBo-805/YB-Music-Website.git
 
 #### 2、下载网站中的资源：
 
-系统前台访问地址：http://localhost:8081
+去【链接: https://pan.baidu.com/s/1NcLK9G87Ei2DHMbE4bb7-A?pwd=tazh 提取码:  tazh 】下载网站依赖的部分歌曲及图片
 
-系统后台访问地址：http://localhost:8080
+注：不提供网站中所有的静态资源，以上是可参考的静态资源。
 
-账号和对应密码：
-管理员： admin    1
+资源放置位置：
 
-![输入图片说明](ReadMeResource/1638780017(1).jpg)
+![image](https://user-images.githubusercontent.com/79205996/169477413-151d20fa-0460-4801-96f3-4d6eb9becc91.png)
 
-用户：  root     123456
+![image](https://user-images.githubusercontent.com/79205996/169477495-d6ab2374-b245-4572-9a16-edaf733ef90e.png)
 
-![输入图片说明](ReadMeResource/image.png)
+#### 3、项目环境搭建前工作：
 
+1）创建数据库，将文件夹中的sql文件导入数据库中
 
+2）修改用户名和密码  修改 music-web/music-server/src/main/resources/application.yaml文件中数据库的username 和 password
 
-## 项目功能
+#### 3、后台环境搭建：
 
-- 音乐播放
-- MV播放
-- 用户登录注册
-- 用户信息编辑、头像修改
-- 歌曲、歌单搜索
-- 歌单打分
-- 歌单、歌曲评论
-- 歌单列表、歌手列表分页显示
-- 歌词同步显示
-- 音乐收藏、下载、拖动控制、音量控制
-- 后台对用户、歌曲、歌手、歌单信息的管理
+1）下载maven3.6.1 
 
-## 下载运行
+【链接: https://pan.baidu.com/s/1Fjyrn-sNsYToPm4WLJH2Ng?pwd=zgx7 提取码:  zgx7 】
 
-------
+2）在idea中配置maven
 
+#### 4、启动项目：
 
+- **启动管理端**：使用idea打开 music-server 文件夹，在idea中运行下面命令启动服务器
 
-### 1、下载项目到本地
-
-```
-https://gitee.com/juice999/music-web.git
+```js
+mvn spring-boot:run // 前提装了 maven
 ```
 
-### 2、下载静态资源
-
-去【链接: https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg 提取码: gwa4 】下载网站依赖的歌曲及图片
-
-![1638781152(1)](ReadMeResource/1638781152(1).jpg)
-
-创建数据库 将 `sql` 文件夹中的 `music.sql` 文件导入数据库。
-
-### 3、启动项目
-
-- **启动客户端**：进入 music-client 目录，运行下面命令
+- **启动客户端**：使用VSCode打开 music-client 文件，运行下面命令
 
 ```
 npm install // 安装依赖
@@ -153,7 +134,7 @@ npm install // 安装依赖
 npm run dev // 启动前台项目
 ```
 
-- **启动管理端**：进入 music-manage 目录，运行下面命令
+- **启动管理端**：使用VSCode打开 music-manage 目录，运行下面命令
 
 ```
 npm install // 安装依赖
@@ -161,11 +142,4 @@ npm install // 安装依赖
 npm run dev // 启动后台管理项目
 ```
 
-- 启动后台
-
-```
-将music-serve导入idea
-打开pom.xml下载相关依赖
-在application.yaml中结合自己环境进行配置
-```
 
