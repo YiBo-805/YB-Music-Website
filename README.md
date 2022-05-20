@@ -1,4 +1,4 @@
-# 基于springboot2+vue2.X的音乐网站
+# Vue + SpringBoot 音乐网站  前后端分离
 
 #### 介绍
 基于springboot2+vue2.X的音乐网站
