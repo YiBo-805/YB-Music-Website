@@ -1,8 +1,8 @@
 # Vue + SpringBoot 音乐网站  前后端分离
 
 #### 介绍
-基于springboot2+vue2.X的音乐网站
-开源地址：https://github.com/Yin-Hongwei/music-website
+开发环境：Vue2.x, VScode, idea, maven3.6.1
+参考开源地址：https://github.com/Yin-Hongwei/music-website
 
 在这个项目的基础上增加了MV功能和修改了部分bug，仅供学习交流，侵权联系我删除
 
